@@ -5,9 +5,10 @@
 - using base command to run python, example( py / python.37 )
 
 2. create env scrapping
-- py -m env scrapping
+- py -m virtualenv scrapping
 - activated your env using this commnad scarpping\Script\activate
 - check on your cmd/powershell thats changes the default to prefix your env
+- deactivate your env using this command deactivate
 
 3. installing requirement library
 - create file with name requirement.txt
